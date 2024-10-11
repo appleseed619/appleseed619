@@ -5,7 +5,7 @@ I'm a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/appleseed619/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/appleseed619_">@appleseed619_</a>
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/appleseed619/daily-quiz-mobile">Daily Quiz</a>
 </h4>
 <p  align="center">
 <a href="https://appleseed619.github.io/">https://appleseed619.github.io</a>
