@@ -11,7 +11,7 @@ to my personal GitHub profile!
 </div>
 
 <h3 align="center">
-<a href="#">Visit my personal homepage
+<a href="https://dao-van-thuc.vercel.app">Visit my personal homepage
 <img src="https://github.com/appleseed619/appleseed619/raw/main/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
